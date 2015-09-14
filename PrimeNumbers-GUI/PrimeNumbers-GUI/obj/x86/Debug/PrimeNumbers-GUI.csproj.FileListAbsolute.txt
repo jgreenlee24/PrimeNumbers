@@ -1,0 +1,7 @@
+C:\Users\fmccown\Documents\Visual Studio 2010\Projects\PrimeNumbers-GUI\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers_GUI.MainForm.resources
+C:\Users\fmccown\Documents\Visual Studio 2010\Projects\PrimeNumbers-GUI\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers_GUI.Properties.Resources.resources
+C:\Users\fmccown\Documents\Visual Studio 2010\Projects\PrimeNumbers-GUI\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers-GUI.csproj.GenerateResource.Cache
+C:\Users\fmccown\Documents\Visual Studio 2010\Projects\PrimeNumbers-GUI\PrimeNumbers-GUI\bin\Debug\PrimeNumbers-GUI.exe
+C:\Users\fmccown\Documents\Visual Studio 2010\Projects\PrimeNumbers-GUI\PrimeNumbers-GUI\bin\Debug\PrimeNumbers-GUI.pdb
+C:\Users\fmccown\Documents\Visual Studio 2010\Projects\PrimeNumbers-GUI\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers-GUI.exe
+C:\Users\fmccown\Documents\Visual Studio 2010\Projects\PrimeNumbers-GUI\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers-GUI.pdb
